@@ -1,0 +1,5 @@
+*.log
+*.db
+*.docx
+/target
+/bin
